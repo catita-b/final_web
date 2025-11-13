@@ -64,7 +64,7 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 #### ¿Qué es?
 --
 
-[Fuente](https://loonamessal-art.com/)
+https://loonamessal-art.com/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -77,7 +77,7 @@ ___
 #### ¿Qué es?
 --
 
-[Fuente]([https://loonamessal-art.com/](https://readymag.website/tannerjamieson/4730681/))
+https://loonamessal-art.com/](https://readymag.website/tannerjamieson/4730681/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -90,7 +90,7 @@ ___
 #### ¿Qué es?
 --
 
-[Fuente]([https://loonamessal-art.com/](https://motherlandfestival.ru/))
+https://loonamessal-art.com/](https://motherlandfestival.ru/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -98,10 +98,12 @@ ___
 | -- | -- |
 | -- | -- |
 ___
+
 ### 4. Anna Mills
 #### ¿Qué es?
 --
-[Fuerte](https://annamills.xyz/)
+
+https://annamills.xyz/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -109,10 +111,11 @@ ___
 | -- | -- |
 | -- | -- |
 ___
+
 ### 5. Souajoana
 #### ¿Qué es?
 --
-[Fuente](https://souajoana.com/)
+https://souajoana.com/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -120,11 +123,11 @@ ___
 | -- | -- |
 | -- | -- |
 ___
+
 ### 6. (RE)FOAM
 #### ¿Qué es?
 --
-
-[Fuente]([https://souajoana.com/](https://re-foam.ru/))
+https://souajoana.com/](https://re-foam.ru/
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
