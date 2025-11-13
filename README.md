@@ -15,12 +15,6 @@ Colons can be used to align columns.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| aaa     | aaa |
-| aaaa     | aaaa     |
-| aaaa | aaaa     |
-
-
-##### Aspectos positivo
-*aa
-##### Aspectos nagativos
-*aa
+| aaa | aaa |
+| aaa | aaa |
+| aaa | aaa |
