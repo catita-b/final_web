@@ -1,9 +1,9 @@
 # final_web
-### ¿Para qué es esta propuesta? 
+## ¿Para qué es esta propuesta? 
 * Objetivo General: Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera amable, visual y entretenida, permitiendo conocer también mi personalidad y forma de ser.
 
-### ¿Para quien es esta propuesta? - Protopersona 
-#### Usuario externo 1: Editora Narrativa
+## ¿Para quien es esta propuesta? - Protopersona 
+### Usuario externo 1: Editora Narrativa
 Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos.
 
 **Comportanmientos y creencias:** 
@@ -25,11 +25,11 @@ Comportanmientos y creencias:
 Descripción:
 Necesidades y metas:
 
-#### Usuario extremo 2: 
+### Usuario extremo 2: 
 aaaaa
-Comportanmientos y creencias:
-Descripción:
-Necesidades y metas:
+**Comportanmientos y creencias:** 
+**Descripción:**
+**Necesidades y metas:**
 
 
 ### ¿Qué existe que es familiar a la propuesta? - Antecedentes
