@@ -64,6 +64,6 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| aaa | aaa |
-| aaa | aaa |
-| aaa | aaa |
+| -- | -- |
+| -- | -- |
+| -- | -- |
