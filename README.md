@@ -37,11 +37,9 @@ Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguaj
 **Necesidades y metas**
 * Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas.
 * Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla.
-
 ___
 
-
-### Usuario extremo 2: 
+### Usuario extremo 2: Curador del diseño lúdico
 Profesional vinculado a instituciones culturales o programas internacionales de diseño en Asia, especialmente en Japón. Se interesa por jóvenes diseñadores que integren la ilustración, la narrativa y la interactividad en sus proyectos, y que busquen expandir su práctica hacia ámbitos como el diseño de juegos o experiencias visuales experimentales.
 
 **Comportanmientos y creencias** 
