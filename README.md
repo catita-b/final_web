@@ -4,7 +4,6 @@
 
 ### ¿Para quien es esta propuesta?
 #### Usuario 1: 
-| Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | aaa | aaa |
 | aaa | aaa |
