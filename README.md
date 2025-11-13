@@ -7,8 +7,6 @@
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | aaa | aaa |
-| Aspectos positivos| Aspectos Negativos|
-| ------------- |-------------|
 | aaa | aaa |
 
 
