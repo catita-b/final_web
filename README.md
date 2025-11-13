@@ -9,7 +9,7 @@
 #### WEB 1
 ##### Qué es:
 kajsndkjas
-###### Fuerte 
+###### [Fuerte](https://www.google.com)
 ##### Aspectos positivos:
 *aa
 ##### Aspectos nagativos:
