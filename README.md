@@ -9,25 +9,7 @@
 #### WEB 1
 ##### Qué es:
 kajsndkjas
-Fuerte: 
-##### Aspectos positivos:
-*aa
-##### Aspectos nagativos:
-*aa
-
-#### WEB 2
-##### Qué es:
-kajsndkjas
-Fuerte: 
-##### Aspectos positivos:
-*aa
-##### Aspectos nagativos:
-*aa
-
-#### WEB 3
-##### Qué es:
-kajsndkjas
-Fuerte: 
+###### Fuerte 
 ##### Aspectos positivos:
 *aa
 ##### Aspectos nagativos:
