@@ -2,11 +2,9 @@
 ### ¿Para qué es esta propuesta? 
 * Objetivo General: Tener un verbo y beneficio práctico
 
-### ¿Para quien es esta propuesta?
+### ¿Para quien es esta propuesta? - Protopersona 
 #### Usuario 1: 
-| ------------- |-------------|
-| aaa | aaa |
-| aaa | aaa |
+Descripción: 
 
 
 ### ¿Qué existe que es familiar a la propuesta? - Antecedentes
