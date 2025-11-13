@@ -63,7 +63,8 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 ### 1. Loona Messal - Potafolio
 #### ¿Qué es?
 --
-[Fuerte](https://loonamessal-art.com/)
+
+[Fuente](https://loonamessal-art.com/)
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -75,7 +76,8 @@ ___
 ### 2. Tanner Jamieson - 2D Brand design + art dorection
 #### ¿Qué es?
 --
-[Fuerte]([https://loonamessal-art.com/](https://readymag.website/tannerjamieson/4730681/))
+
+[Fuente]([https://loonamessal-art.com/](https://readymag.website/tannerjamieson/4730681/))
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -87,7 +89,8 @@ ___
 ### 3. Motherland
 #### ¿Qué es?
 --
-[Fuerte]([https://loonamessal-art.com/](https://motherlandfestival.ru/))
+
+[Fuente]([https://loonamessal-art.com/](https://motherlandfestival.ru/))
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -109,7 +112,7 @@ ___
 ### 5. Souajoana
 #### ¿Qué es?
 --
-[Fuerte](https://souajoana.com/)
+[Fuente](https://souajoana.com/)
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
@@ -120,7 +123,8 @@ ___
 ### 6. (RE)FOAM
 #### ¿Qué es?
 --
-[Fuerte]([https://souajoana.com/](https://re-foam.ru/))
+
+[Fuente]([https://souajoana.com/](https://re-foam.ru/))
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
