@@ -59,8 +59,8 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 ## ¿Qué existe que es familiar a la propuesta? - Antecedentes
 ### WEB 1
 #### ¿Qué es?
-kajsndkjas
-[Fuerte](https://www.google.com)
+
+[Fuerte]()
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
