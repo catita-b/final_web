@@ -3,7 +3,14 @@
 * Objetivo General: Tener un verbo y beneficio práctico
 
 ### ¿Para quien es esta propuesta?
-* a
+#### Usuario 1: 
+| Aspectos positivos| Aspectos Negativos|
+| ------------- |-------------|
+| aaa | aaa |
+| Aspectos positivos| Aspectos Negativos|
+| ------------- |-------------|
+| aaa | aaa |
+
 
 ### ¿Qué existe que es familiar a la propuesta? - Antecedentes
 #### WEB 1
@@ -11,10 +18,9 @@
 kajsndkjas
 ###### [Fuerte](https://www.google.com)
 
-Colons can be used to align columns.
-
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | aaa | aaa |
 | aaa | aaa |
 | aaa | aaa |
+
