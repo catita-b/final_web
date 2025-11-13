@@ -67,3 +67,6 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 | -- | -- |
 | -- | -- |
 | -- | -- |
+
+## ¿Qué existe que puede inspirar la propuesta? - Referentes
+--
