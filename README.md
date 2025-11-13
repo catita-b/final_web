@@ -6,11 +6,11 @@
 * a
 
 ### ¿Qué existe que es familiar a la propuesta? - Antecedentes
-**#### WEB 1**
-**##### ¿Qué es?**
+#### WEB 1
+##### ¿Qué es?
 kajsndkjas
 ###### [Fuerte](https://www.google.com)
-##### **Aspectos positivo**
+##### Aspectos positivo
 *aa
-##### **Aspectos nagativos**
+##### Aspectos nagativos
 *aa
