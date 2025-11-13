@@ -2,6 +2,7 @@
 ## ¿Para qué es esta propuesta? 
 * Objetivo General: Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera amable, visual y entretenida, permitiendo conocer también mi personalidad y forma de ser.
 
+
 ## ¿Para quien es esta propuesta? - Protopersona 
 ### Usuario externo 1: Editora Narrativa
 Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos.
@@ -53,6 +54,7 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 * Identificar diseñadoras emergentes con propuestas visuales y narrativas que integren sensibilidad, técnica y experimentación lúdica.
 * Acceder a portafolios que presenten una historia clara de crecimiento profesional, mostrando versatilidad y coherencia estética.
 * Evaluar el potencial creativo y la proyección internacional de la diseñadora para posibles programas de residencia, intercambio o desarrollo en el campo del diseño y los juegos de mesa.
+
 
 ## ¿Qué existe que es familiar a la propuesta? - Antecedentes
 ### WEB 1
