@@ -14,7 +14,7 @@ kajsndkjas
 Colons can be used to align columns.
 
 | Aspectos positivos| Aspectos Negativos|
-| ------------- |:-------------:|
+| ------------- |-------------|
 | aaa     | aaa |
 | aaaa     | aaaa     |
 | aaaa | aaaa     |
