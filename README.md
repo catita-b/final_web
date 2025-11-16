@@ -4,16 +4,11 @@
 
 ## Protopersonas - ¿Para quien es esta propuesta? 
 ### Usuario externo 1 - Editora Narrativa
+
 | Nombre | Descripción |
-| ------------- |-------------|
 | Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos. | Es una persona práctica, creativa y comprometida con el impacto social del diseño. Disfruta del trabajo colaborativo y de los procesos que mezclan educación, arte y comunicación. Busca ilustradores que transmitan calidez, imaginación y coherencia entre discurso y estética. Le interesa conocer tanto el resultado como el proceso detrás de cada proyecto, adentrádose en propósito de cominación y trasnfondo de los proyectos. |
 | Comportamiento y creencias | Necesidades y metas |
-| ------------- |-------------|
-| * Cree que las imágenes tienen poder pedagógico y social, no solo estético.
-* Suele trabajar con equipos pequeños, donde valora la iniciativa, los vínculos y la empatía profesional.
-* Prefiere diseñadores con estilo propio, capaces de adaptarse a narrativas con distintos públicos.
-* Usa portafolios digitales para encontrar colaboradores con afinidad visual y ética. | * Identificar diseñadoras con un estilo sensible, narrativo y adaptable a distintos tonos editoriales.
-* Poder conocer rápidamente la personalidad, motivaciones y metodología de trabajo de la diseñadora a través de su portafolio. |
+| * Cree que las imágenes tienen poder pedagógico y social, no solo estético. * Suele trabajar con equipos pequeños, donde valora la iniciativa, los vínculos y la empatía profesional. * Prefiere diseñadores con estilo propio, capaces de adaptarse a narrativas con distintos públicos. * Usa portafolios digitales para encontrar colaboradores con afinidad visual y ética. | * Identificar diseñadoras con un estilo sensible, narrativo y adaptable a distintos tonos editoriales. * Poder conocer rápidamente la personalidad, motivaciones y metodología de trabajo de la diseñadora a través de su portafolio. |
 
 ---
 ### Usuario promedio - Colaborador Creativo
