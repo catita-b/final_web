@@ -7,14 +7,12 @@
 Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos.
 
 **Comportanmientos y creencias** 
-
 * Cree que las imágenes tienen poder pedagógico y social, no solo estético.
 * Suele trabajar con equipos pequeños, donde valora la iniciativa, los vínculos y la empatía profesional.
 * Prefiere diseñadores con estilo propio, capaces de adaptarse a narrativas con distintos públicos.
 * Usa portafolios digitales para encontrar colaboradores con afinidad visual y ética.
 
 **Descripción** 
-
 Es una persona práctica, creativa y comprometida con el impacto social del diseño. Disfruta del trabajo colaborativo y de los procesos que mezclan educación, arte y comunicación. Busca ilustradores que transmitan calidez, imaginación y coherencia entre discurso y estética. Le interesa conocer tanto el resultado como el proceso detrás de cada proyecto, adentrádose en propósito de cominación y trasnfondo de los proyectos.
 
 **Necesidades y metas** 
@@ -31,7 +29,6 @@ Profesional del diseño o áreas afines que trabaja de manera independiente y bu
 * Prefiere portafolios claros, funcionales y con un toque de personalidad.
 
 **Descripción**
-
 Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender.
 
 **Necesidades y metas**
@@ -57,18 +54,17 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 * Acceder a portafolios que presenten una historia clara de crecimiento profesional, mostrando versatilidad y coherencia estética.
 * Evaluar el potencial creativo y la proyección internacional de la diseñadora para posibles programas de residencia, intercambio o desarrollo en el campo del diseño y los juegos de mesa.
 
----
-
 ## Antecedentes - ¿Qué existe que es familiar a la propuesta?
-### 1. Loona Messal - Potafolio
+### 1. Loona Messal - Portafolio
 #### ¿Qué es?
-https://loonamessal-art.com/
+Página web de presentación y muestra de sus trabajos como artista, desde los ámbitos de la ilustración.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
+| Genera una estética única en donde toda su página web es un propuesta ilustrativa | Los scrool de sus galerías no son del mismo sentido que se mueven las fotos por loq ue se hace confuzo |
+| Catgorización de los trabajos antes de profundizar en cada uno | al irse a la galería no me muestran por cada categoría sus trabajos |
+
+Fuente: https://loonamessal-art.com/
 ___
 
 ### 2. Tanner Jamieson - 2D Brand design + art dorection
