@@ -58,12 +58,13 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 ## Antecedentes - ¿Qué existe que es familiar a la propuesta?
 ### 1. Loona Messal - Portafolio
 #### ¿Qué es?
-Página web de presentación y muestra de sus trabajos como artista, desde los ámbitos de la ilustración.
+Página web de presentación y muestra de sus trabajos como artista digital, desde los ámbitos de la ilustración.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Genera una estética única en donde toda su página web es un propuesta ilustrativa | Los scrool de sus galerías no son del mismo sentido que se mueven las fotos por loq ue se hace confuzo |
-| Catgorización de los trabajos antes de profundizar en cada uno | al irse a la galería no me muestran por cada categoría sus trabajos |
+| Genera una estética única en donde toda su página web es un propuesta ilustrativa | No es tan consistente en las secciones de galería y sus diferentes trabajos |
+| Todos sus elementos utilizados son ilsutrados por ella | Los scrool de sus carruseles no son del mismo sentido que se mueven las fotos por lo que se hace confuzo |
+| Catgorización de los trabajos antes de profundizar en cada uno | En la galería no me muestran por cada categoría sus trabajos |
 
 Fuente: https://loonamessal-art.com/
 ___
