@@ -2,11 +2,8 @@
 ## Objetivo general - ¿Para qué es esta propuesta? 
 * Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera amable, visual y entretenida, permitiendo conocer también mi personalidad y forma de ser.
 
----
-
 ## Protopersonas - ¿Para quien es esta propuesta? 
-## Usuario externo 1
-### Editora Narrativa
+### Usuario externo 1 - Editora Narrativa
 Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos.
 
 **Comportanmientos y creencias** 
@@ -23,9 +20,8 @@ Es una persona práctica, creativa y comprometida con el impacto social del dise
 **Necesidades y metas** 
 * Identificar diseñadoras con un estilo sensible, narrativo y adaptable a distintos tonos editoriales.
 * Poder conocer rápidamente la personalidad, motivaciones y metodología de trabajo de la diseñadora a través de su portafolio.
-
-## Usuario promedio
-### Colaborador Creativo
+---
+### Usuario promedio - Colaborador Creativo
 Profesional del diseño o áreas afines que trabaja de manera independiente y busca colaboraciones con otros creativos para proyectos variados. Combina encargos comerciales con trabajos experimentales o autopropuestos, donde busca colaboradores para proyectos predefinidos.
 
 **Comportanmientos y creencias**
@@ -41,9 +37,8 @@ Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguaj
 **Necesidades y metas**
 * Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas.
 * Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla.
-
-## Usuario extremo 2
-### Curador del diseño lúdico
+---
+### Usuario extremo 2 - Curador del diseño lúdico
 Profesional vinculado a instituciones culturales o programas internacionales de diseño en Asia, especialmente en Japón. Se interesa por jóvenes diseñadores que integren la ilustración, la narrativa y la interactividad en sus proyectos, y que busquen expandir su práctica hacia ámbitos como el diseño de juegos o experiencias visuales experimentales.
 
 **Comportanmientos y creencias** 
