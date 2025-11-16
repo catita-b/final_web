@@ -1,6 +1,6 @@
 # final_web
 ## ¿Para qué es esta propuesta? 
-* Objetivo General: Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera amable, visual y entretenida, permitiendo conocer también mi personalidad y forma de ser.
+* **Objetivo General:** Compartir mi trabajo como diseñadora a través de un portafolio web ilustrativo e interactivo, que invite a recorrer mis proyectos de manera amable, visual y entretenida, permitiendo conocer también mi personalidad y forma de ser.
 
 
 ## ¿Para quien es esta propuesta? - Protopersona 
@@ -8,12 +8,14 @@
 Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de ilustración, literatura infantil y educación. Busca colaboraciones con diseñadores capaces de comunicar ideas complejas a través de recursos visuales sensibles y cercanos.
 
 **Comportanmientos y creencias** 
+
 * Cree que las imágenes tienen poder pedagógico y social, no solo estético.
 * Suele trabajar con equipos pequeños, donde valora la iniciativa, los vínculos y la empatía profesional.
 * Prefiere diseñadores con estilo propio, capaces de adaptarse a narrativas con distintos públicos.
 * Usa portafolios digitales para encontrar colaboradores con afinidad visual y ética.
 
 **Descripción** 
+
 Es una persona práctica, creativa y comprometida con el impacto social del diseño. Disfruta del trabajo colaborativo y de los procesos que mezclan educación, arte y comunicación. Busca ilustradores que transmitan calidez, imaginación y coherencia entre discurso y estética. Le interesa conocer tanto el resultado como el proceso detrás de cada proyecto, adentrádose en propósito de cominación y trasnfondo de los proyectos.
 
 **Necesidades y metas** 
@@ -32,6 +34,7 @@ Profesional del diseño o áreas afines que trabaja de manera independiente y bu
 * Prefiere portafolios claros, funcionales y con un toque de personalidad.
 
 **Descripción**
+
 Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender.
 
 **Necesidades y metas**
