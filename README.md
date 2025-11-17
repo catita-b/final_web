@@ -142,7 +142,6 @@ PRISM® (byprismmm.studio) es un estudio de dirección de arte y diseño con foc
 
 _Fuente: **https://byprismmm.studio/**_
 
----
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
 Quiero basar el diseño en una estética tipo cielo, usando nubes, postales y palomas mensajeras como elementos que guían la navegación. La idea es mostrar mis trabajos como si fueran cartas o carpetas, manteniendo todo simple y fácil de recorrer. La idea es que el estilo ilustrado ayude a darle un toque cercano y personal a la página con quizás una paloma ilustrada en el camino.
 
