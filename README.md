@@ -57,7 +57,8 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 
 ## Antecedentes - ¿Qué existe que es familiar a la propuesta?
 ### 1. Loona Messal - Portafolio
-![Uploading Captura de pantalla 2025-11-17 a la(s) 12.28.25 a.m..png…]()
+<img width="1800" height="1004" alt="Captura de pantalla 2025-11-17 a la(s) 12 28 25 a m" src="https://github.com/user-attachments/assets/e54608cc-8855-42b3-9cc4-d3598982ac52" />
+
 #### ¿Qué es?
 Página web de presentación y muestra de sus trabajos como artista digital, desde los ámbitos de la ilustración.
 
