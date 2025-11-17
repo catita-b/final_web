@@ -144,6 +144,8 @@ _Fuente: **https://byprismmm.studio/**_
 
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
 <img width="1288" height="939" alt="web" src="https://github.com/user-attachments/assets/b04570e1-46d5-47b3-adbe-df2d1bd4820f" />
+<img width="1288" height="939" alt="web1" src="https://github.com/user-attachments/assets/9a9e4ea1-dcdd-45fa-b933-b012cc20971f" />
+
 
 _Quiero basar el diseño en una estética tipo cielo, usando nubes, postales y palomas mensajeras como elementos que guían la navegación. La idea es mostrar mis trabajos como si fueran cartas o carpetas, manteniendo todo simple y fácil de recorrer. La idea es que el estilo ilustrado ayude a darle un toque cercano y personal a la página con quizás una paloma ilustrada en el camino._
 
