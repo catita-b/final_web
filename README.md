@@ -23,6 +23,12 @@ Es una persona práctica, creativa y comprometida con el impacto social del dise
 
 ---
 ### _Usuario promedio - Colaborador Creativo_
+| *Nombre y sketch* | *Comportamientos y creencias*|
+| :---------------------------- | :-------------------------- |
+| -- | -- |
+| **Demografía** | **Necesidades y metas** |
+| -- | -- |
+
 Profesional del diseño o áreas afines que trabaja de manera independiente y busca colaboraciones con otros creativos para proyectos variados. Combina encargos comerciales con trabajos experimentales o autopropuestos, donde busca colaboradores para proyectos predefinidos.
 
 **Comportanmientos y creencias**
