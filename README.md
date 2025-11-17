@@ -53,7 +53,7 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones | La navegación entre otras páginas no es tan clara debido a que hay botones que pasan desapersibidos y |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones | La navegación entre otras páginas no es tan clara debido a que hay botones que pasan desapersibidos |
 | Diseño simple pero caraterístico con detalles de ilustración que ayuda a generar más jerarquía y priorización a los trabajos, haciendo que la página sea flexible a cualquier trabajo | -- |
 
 _Fuente: **https://readymag.website/tannerjamieson/4730681/**_
