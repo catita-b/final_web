@@ -81,7 +81,7 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 | ------------- |-------------|
 | Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara debido a que hay bootnes que no son claros o pasan desapersibido |
 
-Fuente: https://readymag.website/tannerjamieson/4730681/
+_Fuente: **https://readymag.website/tannerjamieson/4730681/**_
 ___
 
 ### 3. _Motherland_
@@ -141,21 +141,6 @@ aaaa
 | -- | -- |
 | -- | -- |
 Fuente: https://re-foam.ru/
-
-___
-### x. OLGA MINA
-<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 51 00 a m" src="https://github.com/user-attachments/assets/a78c66bd-d1de-4351-a400-27ef74e49859" />
-
-#### ¿Qué es?
-aaaa
-
-| Aspectos positivos| Aspectos Negativos|
-| ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
-
-Fuente: https://ominina.art/it-seems-our-faith-has-nothing-left-to-breathe/
 
 ---
 ### x. PRISM
