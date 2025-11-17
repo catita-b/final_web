@@ -141,8 +141,9 @@ PRISM® (byprismmm.studio) es un estudio de dirección de arte y diseño con foc
 | Uso simple, llamativo e impactante al tener una portada sin scroll en donde al pasar por los proyectos te muestran composiciones de fotos de cada uno | No hay una bajada ni un apartado para cada uno por lo que no invita mucho a explorarlos. |
 
 _Fuente: **https://byprismmm.studio/**_
-**_Paloma mensajera_**
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
+### **_Paloma mensajera_**
+
 <img width="1288" height="939" alt="web" src="https://github.com/user-attachments/assets/b04570e1-46d5-47b3-adbe-df2d1bd4820f" />
 
 _Quiero basar el diseño en una estética tipo cielo, usando nubes, postales y palomas mensajeras como elementos que guían la navegación. La idea es mostrar mis trabajos como si fueran cartas o carpetas, manteniendo todo simple y fácil de recorrer. La idea es que el estilo ilustrado ayude a darle un toque cercano y personal a la página con quizás una paloma ilustrada en el camino._
