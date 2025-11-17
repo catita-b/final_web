@@ -13,9 +13,11 @@ Profesional del ámbito editorial y cultural en Chile, vinculada a proyectos de 
 * Usa portafolios digitales para encontrar colaboradores con afinidad visual y ética.
 
 **Desripción**
+
 Es una persona práctica, creativa y comprometida con el impacto social del diseño. Disfruta del trabajo colaborativo y de los procesos que mezclan educación, arte y comunicación. Busca ilustradores que transmitan calidez, imaginación y coherencia entre discurso y estética. Le interesa conocer tanto el resultado como el proceso detrás de cada proyecto, adentrádose en propósito de cominación y trasnfondo de los proyectos.
   
 **Necesidades y metas**
+
 * Identificar diseñadoras con un estilo sensible, narrativo y adaptable a distintos tonos editoriales.
 * Poder conocer rápidamente la personalidad, motivaciones y metodología de trabajo de la diseñadora a través de su portafolio.
 
@@ -142,4 +144,7 @@ _Fuente: **https://byprismmm.studio/**_
 
 ---
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
+Quiero basar el diseño en una estética tipo cielo, usando nubes, postales y palomas mensajeras como elementos que guían la navegación. La idea es mostrar mis trabajos como si fueran cartas o carpetas, manteniendo todo simple y fácil de recorrer. La idea es que el estilo ilustrado ayude a darle un toque cercano y personal a la página con quizás una paloma ilustrada en el camino.
+<img width="1288" height="939" alt="web" src="https://github.com/user-attachments/assets/b04570e1-46d5-47b3-adbe-df2d1bd4820f" />
+
 --
