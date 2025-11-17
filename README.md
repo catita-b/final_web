@@ -64,11 +64,11 @@ El sitio de Loonamessal Art es un portafolio artístico personal, donde la artis
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Genera una estética única en donde toda su página web es un propuesta ilustrativa y de marca personal | No es tan consistente su propuesat grpafica en las secciones de galería y sus diferentes trabajos odnde se pierde la coherencia |
-| Todos sus elementos utilizados son ilsutrados por ella | Los scrool de sus carruseles no son del mismo sentido que se mueven las fotos por lo que se hace confuzo |
-| Hace una categorización de los trabajos antes de profundizar en cada uno | En la galería no se clasifican sus trabajos según la categoría escogida |
+| Genera una estética única en donde toda su página web es un propuesta ilustrativa y de marca personal | No es tan consistente su propuesta grpafica en las secciones de galería y sus diferentes trabajos donde se pierde la coherencia en su lenguaje |
+| Todos sus elementos utilizados son ilustrados por ella | Debido a la gran perosnalidad de la propuesta de web, los trabajos se ven más opacados o menos jerarquizados |
+| Hace una categorización de los trabajos antes de profundizar en cada uno | En la galería no se clasifican sus trabajos según la categoría escogida y tampoco tiene una baja de cada uno por loq ue genera confusión |
 
-Fuente: https://loonamessal-art.com/
+_Fuente: **https://loonamessal-art.com/**_
 ___
 
 ### _2. Tanner Jamieson - 2D Brand design + art dorection_
@@ -79,7 +79,8 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara debido a que hay bootnes que no son claros o pasan desapersibido |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara debido a que hay botones que  pasan desapersibidos |
+| Diseño Simple pero caratérísitico con detalles de ilsutración que ayuda a generar más jerarquía y priorización a los trabajos | -- |
 
 _Fuente: **https://readymag.website/tannerjamieson/4730681/**_
 ___
@@ -93,72 +94,54 @@ El sitio del Motherland Festival funciona como una plataforma informativa y prom
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | Coherencia estética en el trato de imágenes | Hiper uso de las animaciones hace que vaya más lento de lo que debería |
-| Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla | Exceso de dinamismo por animaciones que pueden llegar a sobre decorar la ágina y exigir de más |
-| -- | -- |
+| Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla | Exceso de dinamismo por animaciones que pueden llegar a sobre decorar la página y exigir de más al tener que cargarlas, ralentizando su funcionamiento |
 
-Fuente: https://motherlandfestival.ru/
+_Fuente: **https://motherlandfestival.ru/**_
 ___
 
-### _4. Anna Mills_
-<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 44 52 a m" src="https://github.com/user-attachments/assets/37a90ba8-2ae2-405c-84f8-428e5a62cf37" />
-
-#### ¿Qué es?
-aaaa
-
-| Aspectos positivos| Aspectos Negativos|
-| ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
-
-Fuente: https://annamills.xyz/
-___
-
-### 5. Souajoana
+### _4. souajoana_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 45 31 a m" src="https://github.com/user-attachments/assets/ab101321-f7e3-4a92-bf19-b4f19703ae30" />
 
 #### ¿Qué es?
-aaaaa
+El sitio de Joana Tavares (alias souajoana) es su portafolio digital como diseñadora gráfica y directora de arte. A través de una interfaz artística y profesional, muestra sus proyectos de identidad visual, diseño editorial y dirección artística con claridad y sofisticación. Su página refleja su marca personal, combinando una estética limpia con transiciones visuales que permiten al visitante explorar su proceso creativo y su pensamiento de diseño.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
+| La estructura constante de datos a la izquierda y proyectos a la derecha permite mantener la infomación personal visible a todo momento, pero queda muy tímido en la esquina | Lo interactivo con los cartas es llamativo pero no aporta en la presentaciónd de los proyectos |
+| Uso de vacíos para dar respiros ayuda a la perspeción del contenido | Tipogrfía queda muy pequeña en muchos casos y condenzada arriba que no invita a leer |
 
-Fuente: https://souajoana.com/
+
+_Fuente: **https://souajoana.com/**_
 ___
 
-### 6. (RE)FOAM
+### _5. (RE)FOAM_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 49 47 a m" src="https://github.com/user-attachments/assets/c0b492c2-307a-4a70-90ac-99147d78a8ab" />
 
 #### ¿Qué es?
-aaaa
+(RE)FOAM es una marca rusa de cosmética que se presenta en su web como una línea de productos de cuidado personal con formulaciones “curadas” y un enfoque en envases refill / sostenibles. El sitio actúa como catálogo-comercial y como plataforma de relato de marca: presenta la visión del proyecto, fichas de producto (suero, gel limpiador, tónicos, jabones), descripciones de ingredientes y oferta de formatos (refills y estuches).
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
-Fuente: https://re-foam.ru/
+| Interesante uso de la línea centro como gúia de ubicación sobre su navegación, dajando claro qué hay u en dónde uno está | Hay un deface en las secciones y no es tan claro el código de color por cada sección, por lo que no es tan aprovechado para ayudar la lectura |
+| Hay una simbología para cada producto en donde al entrar te permite saber más de cada uno | Sobre uno del recurso de las cajas con infomación de colores, en donde no ayuda a la jerarquización y legebilidad, dificultando la ectura por la densidad de texto |
+
+_Fuente: **https://re-foam.ru/**_
 
 ---
-### x. PRISM
+### _6. PRISM® (Design Studio)_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 52 10 a m" src="https://github.com/user-attachments/assets/a32c03c3-6733-47b1-b27d-660bd4375647" />
 
 #### ¿Qué es?
-aaaa
+PRISM® (byprismmm.studio) es un estudio de dirección de arte y diseño con foco en motorsport y proyectos visuales relacionados con velocidad y automovilismo. En su presencia online combina un portafolio de proyectos (propuestas visuales y direcciones artísticas), una sección tipo “archives” y una sección de “shop”, además de canales sociales donde anuncian disponibilidad para encargos. El tono visual es muy fotográfico y centrado en estética de alto impacto.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
+| Uso simple, llamativo e impactante al tener una portada sin scroll en donde al pasar por los proyectos te muestran composiciones de fotos de cada uno | No hay una bajada ni un apartado para cada uno por lo que no invita mucho a explorarlos,a demás de muchoas secciones que aparentan botones pero no lo terminan siendo |
 
-Fuente: https://byprismmm.studio/
+_Fuente: **https://byprismmm.studio/**_
 
 ---
-### x. Non-Objective
+### 7. Non-Objective
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 53 23 a m" src="https://github.com/user-attachments/assets/524f4907-96ea-4ad5-b644-ac8b42c304b8" />
 
 #### ¿Qué es?
