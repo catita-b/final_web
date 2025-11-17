@@ -57,6 +57,7 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 
 ## Antecedentes - ¿Qué existe que es familiar a la propuesta?
 ### 1. Loona Messal - Portafolio
+![Uploading Captura de pantalla 2025-11-17 a la(s) 12.28.25 a.m..png…]()
 #### ¿Qué es?
 Página web de presentación y muestra de sus trabajos como artista digital, desde los ámbitos de la ilustración.
 
@@ -71,23 +72,23 @@ ___
 
 ### 2. Tanner Jamieson - 2D Brand design + art dorection
 #### ¿Qué es?
-Página web de presentación y muestra de sus trabajos como artista digital, desde los ámbitos de la ilustración.
+El portafolio de Tanner Jamieson es un sitio web interactivo construido con Readymag, donde se presenta como artista 2D y directora de arte. El sitio tiene un diseño muy visual: usa imágenes grandes, animaciones y una composición libre para mostrar trabajos de marca, ilustración y dirección de arte.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara debido a que hay bootnes que no son claros o pasan desapersibido |
 
 Fuente: https://readymag.website/tannerjamieson/4730681/
 ___
 
 ### 3. Motherland
 #### ¿Qué es?
-
+El sitio del Motherland Festival funciona como una plataforma informativa y promocional del evento, mostrando su identidad cultural y musical a través de imágenes, line-ups y datos esenciales del festival. Su propósito es comunicar de forma clara qué es el festival, quiénes participan y cómo asistir, combinando información práctica (fechas, locación, artistas) con una propuesta visual que transmite el tono y la atmósfera del evento.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
+| Coherencia estética en el trato de imágenes | Hiper uso de las animaciones hace que vaya más lento de lo que debería |
+| Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla | -- |
 | -- | -- |
 
 Fuente: https://motherlandfestival.ru/
@@ -95,13 +96,15 @@ ___
 
 ### 4. Anna Mills
 #### ¿Qué es?
-https://annamills.xyz/
+
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | -- | -- |
 | -- | -- |
 | -- | -- |
+
+Fuente: https://annamills.xyz/
 ___
 
 ### 5. Souajoana
