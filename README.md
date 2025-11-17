@@ -56,7 +56,7 @@ Busca diseñadoras que transmitan una identidad propia pero adaptable a contexto
 * Evaluar el potencial creativo y la proyección internacional de la diseñadora para posibles programas de residencia, intercambio o desarrollo en el campo del diseño y los juegos de mesa.
 
 ## Antecedentes - ¿Qué existe que es familiar a la propuesta?
-### 1. _Loona Messal - Portafolio_
+### _1. Loona Messal - Portfolio_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 43 24 a m" src="https://github.com/user-attachments/assets/fbbc0306-1909-4982-9278-ea82faa121c2" />
 
 #### ¿Qué es?
@@ -71,8 +71,9 @@ El sitio de Loonamessal Art es un portafolio artístico personal, donde la artis
 Fuente: https://loonamessal-art.com/
 ___
 
-### 2. _Tanner Jamieson - 2D Brand design + art dorection_
-<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 43 18 a m" src="https://github.com/user-attachments/assets/03b7c272-fa6f-403e-8e31-e123ca7f6562" />
+### _2. Tanner Jamieson - 2D Brand design + art dorection_
+<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 55 43 a m" src="https://github.com/user-attachments/assets/3feba091-11db-4963-a40b-44b70081fa15" />
+
 #### ¿Qué es?
 El portafolio de Tanner Jamieson es un sitio web interactivo construido con Readymag, donde se presenta como artista 2D y directora de arte. El sitio tiene un diseño muy visual: usa imágenes grandes, animaciones y una composición libre para mostrar trabajos de marca, ilustración y dirección de arte.
 
@@ -83,8 +84,9 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 Fuente: https://readymag.website/tannerjamieson/4730681/
 ___
 
-### 3. Motherland
+### 3. _Motherland_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 44 32 a m" src="https://github.com/user-attachments/assets/73537708-752e-45fc-914e-cfdb7635e859" />
+
 #### ¿Qué es?
 El sitio del Motherland Festival funciona como una plataforma informativa y promocional del evento, mostrando su identidad cultural y musical a través de imágenes, line-ups y datos esenciales del festival. Su propósito es comunicar de forma clara qué es el festival, quiénes participan y cómo asistir, combinando información práctica (fechas, locación, artistas) con una propuesta visual que transmite el tono y la atmósfera del evento.
 
@@ -97,8 +99,9 @@ El sitio del Motherland Festival funciona como una plataforma informativa y prom
 Fuente: https://motherlandfestival.ru/
 ___
 
-### 4. Anna Mills
+### _4. Anna Mills_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 44 52 a m" src="https://github.com/user-attachments/assets/37a90ba8-2ae2-405c-84f8-428e5a62cf37" />
+
 #### ¿Qué es?
 aaaa
 
@@ -113,6 +116,7 @@ ___
 
 ### 5. Souajoana
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 45 31 a m" src="https://github.com/user-attachments/assets/ab101321-f7e3-4a92-bf19-b4f19703ae30" />
+
 #### ¿Qué es?
 aaaaa
 
@@ -127,6 +131,7 @@ ___
 
 ### 6. (RE)FOAM
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 49 47 a m" src="https://github.com/user-attachments/assets/c0b492c2-307a-4a70-90ac-99147d78a8ab" />
+
 #### ¿Qué es?
 aaaa
 
@@ -140,6 +145,7 @@ Fuente: https://re-foam.ru/
 ___
 ### x. OLGA MINA
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 51 00 a m" src="https://github.com/user-attachments/assets/a78c66bd-d1de-4351-a400-27ef74e49859" />
+
 #### ¿Qué es?
 aaaa
 
@@ -154,7 +160,6 @@ Fuente: https://ominina.art/it-seems-our-faith-has-nothing-left-to-breathe/
 ---
 ### x. PRISM
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 52 10 a m" src="https://github.com/user-attachments/assets/a32c03c3-6733-47b1-b27d-660bd4375647" />
-<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 51 56 a m" src="https://github.com/user-attachments/assets/eb2ffc49-ddc6-48ee-bafe-73589a13ea95" />
 
 #### ¿Qué es?
 aaaa
