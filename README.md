@@ -66,9 +66,9 @@ El sitio de Loonamessal Art es un portafolio artístico personal, donde la artis
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Genera una estética única en donde su página web es un propuesta ilustrativa y de marca personal | No es tan consistente su propuesta grápafica en las secciones de galería y sus diferentes trabajos donde se pierde la coherencia en su lenguaje |
-| Todos sus elementos utilizados son ilustrados por ella | Debido a la gran personalidad de la propuesta de web, los trabajos se ven más opacados o menos jerarquizados |
-| Hace una categorización de los trabajos antes de profundizar en cada uno lo cual ayuda a la navegación en la página al entrar | En la galería no se clasifican sus trabajos según la categoría escogida y tampoco tiene una baja de cada uno por lo que genera confusión |
+| Genera una estética única, haciendo que su página web esa un propuesta ilustrativa y de marca personal | No es tan consistente su propuesta gráfica en las secciones de galería y sus diferentes trabajos donde se pierde la coherencia en su lenguaje |
+| Mator personalización al tener todos sus elementos utilizados son ilustrados por ella | Debido a la gran personalidad de la propuesta de web, los trabajos se ven más opacados o menos jerarquizados |
+| Hace una categorización de los trabajos antes de profundizar en cada uno lo cual ayuda a la navegación en la página al entrar | En la galería no se clasifican sus trabajos según la categoría escogida y tampoco tiene una bajada de cada uno por lo que genera confusión |
 
 _Fuente: **https://loonamessal-art.com/**_
 ___
@@ -81,8 +81,8 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones | La navegación entre otras páginas no es tan clara debido a que hay botones que pasan desapersibidos |
-| Diseño Simple pero caraterístico con detalles de ilustración que ayuda a generar más jerarquía y priorización a los trabajos, hacienod que la página sea flexible a cualquier trabajo | -- |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones | La navegación entre otras páginas no es tan clara debido a que hay botones que pasan desapersibidos y |
+| Diseño simple pero caraterístico con detalles de ilustración que ayuda a generar más jerarquía y priorización a los trabajos, haciendo que la página sea flexible a cualquier trabajo | -- |
 
 _Fuente: **https://readymag.website/tannerjamieson/4730681/**_
 ___
@@ -95,13 +95,13 @@ El sitio del Motherland Festival funciona como una plataforma informativa y prom
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Coherencia estética en el trato de imágenes | Hiper uso de las animaciones hace que vaya más lento y marea hasat siento punto, necesitando de respiros |
-| Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla | Exceso de dinamismo por animaciones que pueden llegar a sobre decorar la página y exigir de más al tener que cargarlas, ralentizando su funcionamiento |
+| Coherencia estética en el trato de imágenes ya sea bordes y efectos | Hiper uso de las animaciones hace que vaya más lento y marea hasat siento punto, necesitando de respiros |
+| Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla y ayuda a afirmar algún mensaje específico | Exceso de dinamismo por animaciones que pueden llegar a sobre decorar la página y exigir de más al tener que cargarlas, ralentizando su funcionamiento |
 
 _Fuente: **https://motherlandfestival.ru/**_
 ___
 
-### _4. souajoana_
+### _4. Souajoana_
 <img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 45 31 a m" src="https://github.com/user-attachments/assets/ab101321-f7e3-4a92-bf19-b4f19703ae30" />
 
 #### ¿Qué es?
@@ -110,7 +110,7 @@ El sitio de Joana Tavares (alias souajoana) es su portafolio digital como diseñ
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | La estructura constante de datos a la izquierda y proyectos a la derecha permite mantener la infomación personal visible a todo momento, pero queda muy tímido en la esquina | Lo interactivo con los cartas es llamativo pero no aporta en la presentaciónd de los proyectos |
-| Uso de vacíos para dar respiros ayuda a la perspeción del contenido | Tipografía queda muy pequeña en muchos casos y condenzada arriba que no invita a leer |
+| Buen uso de vacíos para dar respiros ayuda a la perspeción del contenido | Tipografía queda muy pequeña y condenzada arriba en muchos casos, lo que no invita a leer |
 
 
 _Fuente: **https://souajoana.com/**_
@@ -124,8 +124,8 @@ ___
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Interesante uso de la línea centro como gúia de ubicación sobre su navegación, dajando claro qué hay y en dónde uno está | Hay un deface en las secciones y no es tan claro el código de color por cada sección, por lo que no es tan aprovechado para ayudar la lectura |
-| Hay una simbología para cada producto en donde al entrar te permite saber más de cada uno haciendo que tengo ayor perosnalidad | Hay un sobre uno del recurso de las cajas con infomación de colores, en donde no ayuda a la jerarquización y legebilidad, dificultando la lectura por la densidad de texto |
+| Interesante uso de la línea centro como guía de ubicación sobre la navegación, dajando claro qué hay y en dónde uno está | Hay un deface en las secciones y no es tan claro el código de color por cada sección, por lo que no es tan aprovechado para ayudar la lectura |
+| Genera una simbología para cada producto en donde al entrar te permite saber más de cada uno haciendo que tengo mayor perosnalidad | El sobre uso del recurso de las cajas de colores con infomación, en donde no ayuda a la jerarquización y legebilidad, dificultando la lectura por la densidad de texto |
 
 _Fuente: **https://re-foam.ru/**_
 
@@ -138,10 +138,10 @@ PRISM® (byprismmm.studio) es un estudio de dirección de arte y diseño con foc
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Uso simple, llamativo e impactante al tener una portada sin scroll en donde al pasar por los proyectos te muestran composiciones de fotos de cada uno | No hay una bajada ni un apartado para cada uno por lo que no invita mucho a explorarlos,a demás de muchoas secciones que aparentan botones pero no lo terminan siendo |
+| Uso simple, llamativo e impactante al tener una portada sin scroll en donde al pasar por los proyectos te muestran composiciones de fotos de cada uno | No hay una bajada ni un apartado para cada uno por lo que no invita mucho a explorarlos. |
 
 _Fuente: **https://byprismmm.studio/**_
-
+**_Paloma mensajera_**
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
 <img width="1288" height="939" alt="web" src="https://github.com/user-attachments/assets/b04570e1-46d5-47b3-adbe-df2d1bd4820f" />
 
