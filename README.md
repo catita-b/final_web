@@ -64,31 +64,33 @@ Página web de presentación y muestra de sus trabajos como artista digital, des
 | ------------- |-------------|
 | Genera una estética única en donde toda su página web es un propuesta ilustrativa | No es tan consistente en las secciones de galería y sus diferentes trabajos |
 | Todos sus elementos utilizados son ilsutrados por ella | Los scrool de sus carruseles no son del mismo sentido que se mueven las fotos por lo que se hace confuzo |
-| Catgorización de los trabajos antes de profundizar en cada uno | En la galería no me muestran por cada categoría sus trabajos |
+| Hace una categorización de los trabajos antes de profundizar en cada uno | En la galería no se clasifican sus trabajos según la categoría escogida |
 
 Fuente: https://loonamessal-art.com/
 ___
 
 ### 2. Tanner Jamieson - 2D Brand design + art dorection
 #### ¿Qué es?
-https://loonamessal-art.com/](https://readymag.website/tannerjamieson/4730681/
+Página web de presentación y muestra de sus trabajos como artista digital, desde los ámbitos de la ilustración.
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara |
+
+Fuente: https://readymag.website/tannerjamieson/4730681/
 ___
 
 ### 3. Motherland
 #### ¿Qué es?
-https://loonamessal-art.com/](https://motherlandfestival.ru/
+
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | -- | -- |
 | -- | -- |
 | -- | -- |
+
+Fuente: https://motherlandfestival.ru/
 ___
 
 ### 4. Anna Mills
