@@ -27,7 +27,8 @@ Es una persona práctica, creativa y comprometida con el impacto social del dise
 | :---------------------------- | :-------------------------- |
 | Profesional del diseño o áreas afines que trabaja de manera independiente y busca colaboraciones con otros creativos para proyectos variados. Combina encargos comerciales con trabajos experimentales o autopropuestos, donde busca colaboradores para proyectos predefinidos. | Cree que el trabajo colaborativo enriquece el resultado y amplía las posibilidades del diseño. Usa redes y portafolios online como espacios principales para encontrar talento. Valora la autenticidad, la curiosidad y la buena comunicación en el trabajo con otros. Prefiere portafolios claros, funcionales y con un toque de personalidad. |
 | **Demografía** | **Necesidades y metas** |
-| Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender. | Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas. Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla. |
+| Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender. | * Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas. 
+Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla. |
 
 ---
 ### _Usuario extremo 2 - Curador del diseño lúdico_
