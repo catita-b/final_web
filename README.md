@@ -64,9 +64,9 @@ El sitio de Loonamessal Art es un portafolio artístico personal, donde la artis
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Genera una estética única en donde toda su página web es un propuesta ilustrativa y de marca personal | No es tan consistente su propuesta grpafica en las secciones de galería y sus diferentes trabajos donde se pierde la coherencia en su lenguaje |
-| Todos sus elementos utilizados son ilustrados por ella | Debido a la gran perosnalidad de la propuesta de web, los trabajos se ven más opacados o menos jerarquizados |
-| Hace una categorización de los trabajos antes de profundizar en cada uno | En la galería no se clasifican sus trabajos según la categoría escogida y tampoco tiene una baja de cada uno por loq ue genera confusión |
+| Genera una estética única en donde su página web es un propuesta ilustrativa y de marca personal | No es tan consistente su propuesta grápafica en las secciones de galería y sus diferentes trabajos donde se pierde la coherencia en su lenguaje |
+| Todos sus elementos utilizados son ilustrados por ella | Debido a la gran personalidad de la propuesta de web, los trabajos se ven más opacados o menos jerarquizados |
+| Hace una categorización de los trabajos antes de profundizar en cada uno lo cual ayuda a la navegación en la página al entrar | En la galería no se clasifican sus trabajos según la categoría escogida y tampoco tiene una baja de cada uno por lo que genera confusión |
 
 _Fuente: **https://loonamessal-art.com/**_
 ___
@@ -79,8 +79,8 @@ El portafolio de Tanner Jamieson es un sitio web interactivo construido con Read
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones| La navegación entre otras páginas no es tan clara debido a que hay botones que  pasan desapersibidos |
-| Diseño Simple pero caratérísitico con detalles de ilsutración que ayuda a generar más jerarquía y priorización a los trabajos | -- |
+| Grilla bastante clara y consistente en toda la presentación de sus proyectos generando una clara paleta de colores y buenas visualizaciones | La navegación entre otras páginas no es tan clara debido a que hay botones que pasan desapersibidos |
+| Diseño Simple pero caraterístico con detalles de ilustración que ayuda a generar más jerarquía y priorización a los trabajos, hacienod que la página sea flexible a cualquier trabajo | -- |
 
 _Fuente: **https://readymag.website/tannerjamieson/4730681/**_
 ___
@@ -93,7 +93,7 @@ El sitio del Motherland Festival funciona como una plataforma informativa y prom
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Coherencia estética en el trato de imágenes | Hiper uso de las animaciones hace que vaya más lento de lo que debería |
+| Coherencia estética en el trato de imágenes | Hiper uso de las animaciones hace que vaya más lento y marea hasat siento punto, necesitando de respiros |
 | Interesante el uso de la tipografía para composiciones artíticas que se ajusta al tamaño de la pantalla | Exceso de dinamismo por animaciones que pueden llegar a sobre decorar la página y exigir de más al tener que cargarlas, ralentizando su funcionamiento |
 
 _Fuente: **https://motherlandfestival.ru/**_
@@ -108,7 +108,7 @@ El sitio de Joana Tavares (alias souajoana) es su portafolio digital como diseñ
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
 | La estructura constante de datos a la izquierda y proyectos a la derecha permite mantener la infomación personal visible a todo momento, pero queda muy tímido en la esquina | Lo interactivo con los cartas es llamativo pero no aporta en la presentaciónd de los proyectos |
-| Uso de vacíos para dar respiros ayuda a la perspeción del contenido | Tipogrfía queda muy pequeña en muchos casos y condenzada arriba que no invita a leer |
+| Uso de vacíos para dar respiros ayuda a la perspeción del contenido | Tipografía queda muy pequeña en muchos casos y condenzada arriba que no invita a leer |
 
 
 _Fuente: **https://souajoana.com/**_
@@ -122,8 +122,8 @@ ___
 
 | Aspectos positivos| Aspectos Negativos|
 | ------------- |-------------|
-| Interesante uso de la línea centro como gúia de ubicación sobre su navegación, dajando claro qué hay u en dónde uno está | Hay un deface en las secciones y no es tan claro el código de color por cada sección, por lo que no es tan aprovechado para ayudar la lectura |
-| Hay una simbología para cada producto en donde al entrar te permite saber más de cada uno | Sobre uno del recurso de las cajas con infomación de colores, en donde no ayuda a la jerarquización y legebilidad, dificultando la ectura por la densidad de texto |
+| Interesante uso de la línea centro como gúia de ubicación sobre su navegación, dajando claro qué hay y en dónde uno está | Hay un deface en las secciones y no es tan claro el código de color por cada sección, por lo que no es tan aprovechado para ayudar la lectura |
+| Hay una simbología para cada producto en donde al entrar te permite saber más de cada uno haciendo que tengo ayor perosnalidad | Hay un sobre uno del recurso de las cajas con infomación de colores, en donde no ayuda a la jerarquización y legebilidad, dificultando la lectura por la densidad de texto |
 
 _Fuente: **https://re-foam.ru/**_
 
@@ -139,21 +139,6 @@ PRISM® (byprismmm.studio) es un estudio de dirección de arte y diseño con foc
 | Uso simple, llamativo e impactante al tener una portada sin scroll en donde al pasar por los proyectos te muestran composiciones de fotos de cada uno | No hay una bajada ni un apartado para cada uno por lo que no invita mucho a explorarlos,a demás de muchoas secciones que aparentan botones pero no lo terminan siendo |
 
 _Fuente: **https://byprismmm.studio/**_
-
----
-### 7. Non-Objective
-<img width="1288" height="939" alt="Captura de pantalla 2025-11-17 a la(s) 12 53 23 a m" src="https://github.com/user-attachments/assets/524f4907-96ea-4ad5-b644-ac8b42c304b8" />
-
-#### ¿Qué es?
-aaaa
-
-| Aspectos positivos| Aspectos Negativos|
-| ------------- |-------------|
-| -- | -- |
-| -- | -- |
-| -- | -- |
-
-Fuente: https://non-objective.works/ 
 
 ---
 ## Referentes - ¿Qué existe que puede inspirar la propuesta?
