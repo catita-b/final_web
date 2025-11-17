@@ -23,26 +23,12 @@ Es una persona práctica, creativa y comprometida con el impacto social del dise
 
 ---
 ### _Usuario promedio - Colaborador Creativo_
-| *Nombre y sketch* | *Comportamientos y creencias*|
+| *Nombre y sketch* | *Comportamientos y creencias* |
 | :---------------------------- | :-------------------------- |
-| -- | -- |
+| Profesional del diseño o áreas afines que trabaja de manera independiente y busca colaboraciones con otros creativos para proyectos variados. Combina encargos comerciales con trabajos experimentales o autopropuestos, donde busca colaboradores para proyectos predefinidos. | Cree que el trabajo colaborativo enriquece el resultado y amplía las posibilidades del diseño. Usa redes y portafolios online como espacios principales para encontrar talento. Valora la autenticidad, la curiosidad y la buena comunicación en el trabajo con otros. Prefiere portafolios claros, funcionales y con un toque de personalidad. |
 | **Demografía** | **Necesidades y metas** |
-| -- | -- |
+| Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender. | Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas. Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla. |
 
-Profesional del diseño o áreas afines que trabaja de manera independiente y busca colaboraciones con otros creativos para proyectos variados. Combina encargos comerciales con trabajos experimentales o autopropuestos, donde busca colaboradores para proyectos predefinidos.
-
-**Comportanmientos y creencias**
-* Cree que el trabajo colaborativo enriquece el resultado y amplía las posibilidades del diseño.
-* Usa redes y portafolios online como espacios principales para encontrar talento.
-* Valora la autenticidad, la curiosidad y la buena comunicación en el trabajo con otros.
-* Prefiere portafolios claros, funcionales y con un toque de personalidad.
-
-**Descripción**
-Es una persona activa en el medio del diseño, abierta a explorar nuevos lenguajes visuales. Busca colaboraciones que le aporten frescura y una mirada distinta. Se siente atraído por diseñadoras con estilo definido, que transmitan confianza, sensibilidad y entusiasmo por aprender.
-
-**Necesidades y metas**
-* Encontrar diseñadoras con las que pueda establecer relaciones de trabajo flexibles y creativas.
-* Conocer de forma rápida el estilo visual, las habilidades y la personalidad de la diseñadora antes de contactarla.
 ---
 ### _Usuario extremo 2 - Curador del diseño lúdico_
 Profesional vinculado a instituciones culturales o programas internacionales de diseño en Asia, especialmente en Japón. Se interesa por jóvenes diseñadores que integren la ilustración, la narrativa y la interactividad en sus proyectos, y que busquen expandir su práctica hacia ámbitos como el diseño de juegos o experiencias visuales experimentales.
