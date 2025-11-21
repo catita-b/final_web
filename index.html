@@ -4,9 +4,240 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sitio web en construcción</title>
-  </head>
-  <body>
-    <h1>Hola mundo!</h1>
-  </body>
+     <title>Mi Portafolio</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- BOTÓN VOLVER -->
+    <a href="#" class="back-button" id="backButton">← Volver</a>
+
+    <!-- NAVEGACIÓN -->
+    <nav>
+        <a href="#" class="logo" id="logoLink">TU NOMBRE</a>
+        <ul>
+            <li><a href="#" id="projectsLink">Proyectos</a></li>
+            <li><a href="#" id="aboutLink">Sobre Mí</a></li>
+        </ul>
+    </nav>
+
+    <!-- SECCIÓN INICIO -->
+    <div id="homeSection" class="section active">
+        <!-- HERO -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Diseñador Creativo</h1>
+                <p>Portfolio de proyectos seleccionados</p>
+            </div>
+        </section>
+
+        <!-- GRID DE PROYECTOS -->
+        <section class="projects-grid">
+            <div class="grid-container">
+                <div class="project-card" onclick="showProject('project1')">
+                    <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600" alt="Proyecto 1">
+                    <div class="overlay">
+                        <h3>Proyecto Uno</h3>
+                        <p>Diseño Web</p>
+                    </div>
+                </div>
+
+                <div class="project-card" onclick="showProject('project2')">
+                    <img src="https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600" alt="Proyecto 2">
+                    <div class="overlay">
+                        <h3>Proyecto Dos</h3>
+                        <p>Branding</p>
+                    </div>
+                </div>
+
+                <div class="project-card" onclick="showProject('project3')">
+                    <img src="https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=600" alt="Proyecto 3">
+                    <div class="overlay">
+                        <h3>Proyecto Tres</h3>
+                        <p>UI/UX Design</p>
+                    </div>
+                </div>
+
+                <div class="project-card" onclick="showProject('project1')">
+                    <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600" alt="Proyecto 4">
+                    <div class="overlay">
+                        <h3>Proyecto Cuatro</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+
+                <div class="project-card" onclick="showProject('project2')">
+                    <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600" alt="Proyecto 5">
+                    <div class="overlay">
+                        <h3>Proyecto Cinco</h3>
+                        <p>Ilustración</p>
+                    </div>
+                </div>
+
+                <div class="project-card" onclick="showProject('project3')">
+                    <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=600" alt="Proyecto 6">
+                    <div class="overlay">
+                        <h3>Proyecto Seis</h3>
+                        <p>Arte Digital</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- PÁGINAS DE PROYECTOS INDIVIDUALES -->
+    <div id="project1" class="project-detail">
+        <div class="project-info">
+            <div class="category">Diseño Web</div>
+            <h2>Proyecto Uno</h2>
+            <div class="description">
+                <p>Este es un ejemplo de descripción del proyecto. Aquí puedes explicar el concepto, los desafíos que enfrentaste y las soluciones creativas que implementaste.</p>
+                <p>El texto permanece fijo a la izquierda mientras las imágenes a la derecha se pueden desplazar hacia abajo.</p>
+            </div>
+            <div class="details">
+                <p><strong>Cliente</strong>Nombre del Cliente</p>
+                <p><strong>Año</strong>2024</p>
+                <p><strong>Rol</strong>Diseñador Principal</p>
+                <p><strong>Herramientas</strong>Figma, Photoshop, HTML/CSS</p>
+            </div>
+        </div>
+        <div class="project-gallery">
+            <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800" alt="Imagen 1">
+            <img src="https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800" alt="Imagen 2">
+            <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800" alt="Imagen 3">
+            <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800" alt="Imagen 4">
+        </div>
+    </div>
+
+    <div id="project2" class="project-detail">
+        <div class="project-info">
+            <div class="category">Branding</div>
+            <h2>Proyecto Dos</h2>
+            <div class="description">
+                <p>Descripción detallada del segundo proyecto. Explica tu proceso creativo y los resultados obtenidos.</p>
+                <p>Puedes añadir múltiples párrafos para dar contexto completo sobre el trabajo realizado.</p>
+            </div>
+            <div class="details">
+                <p><strong>Cliente</strong>Otro Cliente</p>
+                <p><strong>Año</strong>2024</p>
+                <p><strong>Rol</strong>Director Creativo</p>
+                <p><strong>Herramientas</strong>Illustrator, InDesign</p>
+            </div>
+        </div>
+        <div class="project-gallery">
+            <img src="https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800" alt="Imagen 1">
+            <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800" alt="Imagen 2">
+            <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800" alt="Imagen 3">
+        </div>
+    </div>
+
+    <div id="project3" class="project-detail">
+        <div class="project-info">
+            <div class="category">UI/UX Design</div>
+            <h2>Proyecto Tres</h2>
+            <div class="description">
+                <p>Descripción del tercer proyecto con detalles sobre la experiencia de usuario y la interfaz diseñada.</p>
+            </div>
+            <div class="details">
+                <p><strong>Cliente</strong>Startup Tech</p>
+                <p><strong>Año</strong>2024</p>
+                <p><strong>Rol</strong>UX Designer</p>
+                <p><strong>Herramientas</strong>Figma, Sketch</p>
+            </div>
+        </div>
+        <div class="project-gallery">
+            <img src="https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=800" alt="Imagen 1">
+            <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800" alt="Imagen 2">
+            <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800" alt="Imagen 3">
+        </div>
+    </div>
+
+    <!-- PÁGINA SOBRE MÍ -->
+    <div id="aboutSection" class="about-section">
+        <div class="about-image">
+            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600" alt="Foto personal">
+        </div>
+        <div class="about-content">
+            <h2>Sobre Mí</h2>
+            <p>Hola, soy [Tu Nombre], un diseñador creativo apasionado por crear experiencias visuales memorables.</p>
+            <p>Con más de [X] años de experiencia en diseño web, branding y dirección creativa, me especializo en transformar ideas en proyectos visuales impactantes.</p>
+            <p>Mi enfoque combina la estética contemporánea con funcionalidad intuitiva, siempre buscando soluciones creativas que resuenen con el público objetivo.</p>
+            
+            <h3>Habilidades</h3>
+            <ul class="skills-list">
+                <li>Diseño UI/UX</li>
+                <li>Diseño Web Responsive</li>
+                <li>Branding e Identidad Visual</li>
+                <li>Adobe Creative Suite</li>
+                <li>Figma & Sketch</li>
+                <li>HTML/CSS/JavaScript</li>
+                <li>Dirección Creativa</li>
+                <li>Fotografía & Edición</li>
+                <li>Ilustración Digital</li>
+                <li>Motion Graphics</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Navegación
+        const homeSection = document.getElementById('homeSection');
+        const aboutSection = document.getElementById('aboutSection');
+        const projectDetails = document.querySelectorAll('.project-detail');
+        const backButton = document.getElementById('backButton');
+
+        document.getElementById('logoLink').addEventListener('click', (e) => {
+            e.preventDefault();
+            showHome();
+        });
+
+        document.getElementById('projectsLink').addEventListener('click', (e) => {
+            e.preventDefault();
+            showHome();
+        });
+
+        document.getElementById('aboutLink').addEventListener('click', (e) => {
+            e.preventDefault();
+            showAbout();
+        });
+
+        backButton.addEventListener('click', (e) => {
+            e.preventDefault();
+            showHome();
+        });
+
+        function showHome() {
+            homeSection.classList.add('active');
+            aboutSection.classList.remove('active');
+            projectDetails.forEach(p => p.classList.remove('active'));
+            backButton.classList.remove('active');
+            window.scrollTo(0, 0);
+        }
+
+        function showAbout() {
+            homeSection.classList.remove('active');
+            aboutSection.classList.add('active');
+            projectDetails.forEach(p => p.classList.remove('active'));
+            backButton.classList.add('active');
+            window.scrollTo(0, 0);
+        }
+
+        function showProject(projectId) {
+            homeSection.classList.remove('active');
+            aboutSection.classList.remove('active');
+            projectDetails.forEach(p => p.classList.remove('active'));
+            document.getElementById(projectId).classList.add('active');
+            backButton.classList.add('active');
+            window.scrollTo(0, 0);
+        }
+
+        // Smooth scroll
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                if (this.getAttribute('href') !== '#') {
+                    e.preventDefault();
+                }
+            });
+        });
+    </script>
+</body>
 </html>
