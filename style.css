@@ -97,7 +97,7 @@ body {
 }
 
 /* ============================================
-           PÃGINAS/SECCIONES
+           PÁGINAS/SECCIONES
 ============================================ */
 .page {
     display: none;
@@ -298,7 +298,7 @@ body {
 }
 
 /* ============================================
-           PÃGINA DE CATEGORÃA (PROYECTOS)
+           PÁGINA DE CATEGORÍA (PROYECTOS)
 ============================================ */
 .category-page {
     min-height: 100vh;
@@ -363,7 +363,7 @@ body {
 
 .project-pagination a.active {
     opacity: 1;
-    font-weight: 400;
+    font-weight: 600;
     text-decoration: underline;
 }
 
@@ -751,8 +751,8 @@ body {
 }
 
 /* ============================================
-           PÃGINA CONTACTO
-        ============================================ */
+           PÁGINA CONTACTO
+============================================ */
 .contact-page {
     min-height: calc(100vh - 65px);
     display: flex;
@@ -966,7 +966,7 @@ body {
 }
 
 /* ============================================
-           NAVEGACIÃ“N ENTRE CATEGORÍAS
+           NAVEGACIÓN ENTRE CATEGORÍAS
 ============================================ */
 .category-bottom-nav {
     display: flex;
