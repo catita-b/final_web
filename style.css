@@ -32,7 +32,7 @@ body {
 
 /* ============================================
            NAVEGACIÓN PRINCIPAL
-        ============================================ */
+============================================ */
 .nav-main {
     position: fixed;
     top: 0;
@@ -97,8 +97,8 @@ body {
 }
 
 /* ============================================
-           PÁGINAS/SECCIONES
-        ============================================ */
+           PÃGINAS/SECCIONES
+============================================ */
 .page {
     display: none;
     min-height: 100vh;
@@ -111,7 +111,7 @@ body {
 
 /* ============================================
            PÁGINA INICIO/ARCHIVOS
-        ============================================ */
+============================================ */
 .hero-section {
     min-height: calc(100vh - 65px);
     display: flex;
@@ -195,7 +195,7 @@ body {
 
 /* ============================================
            SECCIÓN ARCHIVO
-        ============================================ */
+============================================ */
 .archive-section {
     padding: 60px 2.5rem 80px;
     background: var(--color-bg);
@@ -264,7 +264,7 @@ body {
     /* Sin sombra al pasar el cursor */
 }
 
-/* EDITAR: Imágenes de categorías (590×520px) */
+/* EDITAR: Imágenes de categorías (590—520px) */
 .archive-item:nth-child(1) .archive-image {
     background-image: url("producto.png");
     /* EDITAR: Imagen para "Diseño de Productos" */
@@ -287,7 +287,7 @@ body {
 
 /* ============================================
            FOOTER GLOBAL
-        ============================================ */
+============================================ */
 .footer {
     padding: 30px 2.5rem;
     text-align: center;
@@ -298,8 +298,8 @@ body {
 }
 
 /* ============================================
-           PÁGINA DE CATEGORÍA (PROYECTOS)
-        ============================================ */
+           PÃGINA DE CATEGORÃA (PROYECTOS)
+============================================ */
 .category-page {
     min-height: 100vh;
     display: flex;
@@ -350,7 +350,7 @@ body {
 .project-pagination {
     display: flex;
     gap: 20px;
-    font-size: 1.2rem;
+    font-size: 0.85rem;
 }
 
 .project-pagination a {
@@ -363,7 +363,7 @@ body {
 
 .project-pagination a.active {
     opacity: 1;
-    font-weight: 600;
+    font-weight: 400;
     text-decoration: underline;
 }
 
@@ -474,8 +474,8 @@ body {
 }
 
 /* ============================================
-           PÁGINA SOBRE MÍ
-        ============================================ */
+           PÁGINA SOBRE Mí
+============================================ */
 .about-page {
     padding: 40px 2.5rem 0;
     flex: 1;
@@ -508,7 +508,7 @@ body {
 .about-photo {
     width: 100%;
     aspect-ratio: 1 / 1;
-    /* EDITAR: Cambia esta URL por tu foto (370×370px) */
+    /* EDITAR: Cambia esta URL por tu foto (370—370px) */
     background-image: url("yo.png");
     background-size: cover;
     background-position: center;
@@ -651,12 +651,12 @@ body {
 }
 
 .skill-progress.animated {
-    /* La animación se activa añadiendo esta clase */
+    /* La animación se activa accediendo esta clase */
 }
 
 /* ============================================
            PÁGINA PROYECTOS (GRID)
-        ============================================ */
+============================================ */
 .projects-page {
     padding: 40px 2.5rem 0;
     flex: 1;
@@ -696,7 +696,7 @@ body {
     transition: var(--transition-smooth);
 }
 
-/* Efecto hover eliminado - ahora usa rotación como archive */
+/* Efecto hover eliminado - ahora usa rotación como archivo */
 .project-card-hover {
     display: none;
 }
@@ -715,7 +715,7 @@ body {
     color: var(--color-accent);
 }
 
-/* EDITAR: Imágenes del grid de proyectos (340×405px) - 10 proyectos */
+/* EDITAR: Imágenes del grid de proyectos (340—405px) - 10 proyectos */
 .project-card:nth-child(1) .project-card-image {
     background-image: url("pisco.png");
 }
@@ -746,9 +746,12 @@ body {
 .project-card:nth-child(10) .project-card-image {
     background-image: url("asi.png");
 }
+.project-card:nth-child(11) .project-card-image {
+    background-image: url("ika.png");
+}
 
 /* ============================================
-           PÁGINA CONTACTO
+           PÃGINA CONTACTO
         ============================================ */
 .contact-page {
     min-height: calc(100vh - 65px);
@@ -786,7 +789,7 @@ body {
 .contact-photo {
     width: 310px;
     height: 340px;
-    /* EDITAR: Cambia esta URL por tu foto de contacto (310×344px) */
+    /* EDITAR: Cambia esta URL por tu foto de contacto (310Ã—344px) */
     background-image: url("paloma.png");
     background-size: cover;
     background-position: center;
@@ -828,7 +831,7 @@ body {
 
 /* ============================================
            ANIMACIONES
-        ============================================ */
+============================================ */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -846,7 +849,7 @@ body {
 
 /* ============================================
            PANTALLA DE CARGA
-        ============================================ */
+============================================ */
 .loading-screen {
     position: fixed;
     top: 0;
@@ -896,7 +899,7 @@ body {
 .hero-image {
     width: 390px;
     height: 430px;
-    /* EDITAR: Cambia esta URL por tu foto de perfil del hero (390×430px) */
+    /* EDITAR: Cambia esta URL por tu foto de perfil del hero (390—430px) */
     background-image: url("paloma.png");
     background-size: cover;
     background-position: center;
@@ -911,7 +914,7 @@ body {
 
 /* ============================================
            FILTROS DE PROYECTOS
-        ============================================ */
+============================================ */
 .projects-filters {
     display: flex;
     justify-content: center;
@@ -963,8 +966,8 @@ body {
 }
 
 /* ============================================
-           NAVEGACIÓN ENTRE CATEGORÍAS
-        ============================================ */
+           NAVEGACIÃ“N ENTRE CATEGORÍAS
+============================================ */
 .category-bottom-nav {
     display: flex;
     justify-content: space-between;
@@ -1013,7 +1016,7 @@ body {
            CURSOR PERSONALIZADO - INICIO
            Para desactivar: elimina esta sección y 
            el div #custom-cursor del HTML y el JS
-        ============================================ */
+============================================ */
 * {
     cursor: none !important;
 }
@@ -1043,11 +1046,11 @@ body {
 }
 /* ============================================
            CURSOR PERSONALIZADO - FIN
-        ============================================ */
+============================================ */
 
 /* ============================================
            RESPONSIVE
-        ============================================ */
+============================================ */
 @media (max-width: 1200px) {
     .archive-grid {
         gap: 40px 50px;
@@ -1231,7 +1234,7 @@ body {
     }
 
     .project-pagination {
-        font-size: 1rem;
+        font-size: 0.8rem;
         gap: 15px;
     }
 
